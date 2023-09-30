@@ -1,15 +1,16 @@
 {
-  "name": "cli-calculetor",
+  "name": "calculetorcli8",
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "./index.js",
+  "bin":
+   {"calculetorcli8": "./index.js"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Atif",
   "license": "ISC",
   "devDependencies": {
     "@types/chalk": "^2.2.0",
